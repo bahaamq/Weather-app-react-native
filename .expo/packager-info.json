@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://an-p6a.anonymous.weather-app-react-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.an-p6a.anonymous.weather-app-react-native.exp.direct",
+  "ngrokPid": 4597,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
